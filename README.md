@@ -1,8 +1,9 @@
 # There's something going on here... Something evil...
 ---
-### Third year university cybersec student
 
-### Love **C++**, **Unreal Engine**, have some sort of expierence in **Python**, **C#**, **Lua**
+### 🎓 Third-year Cybersecurity Student  
+### 💻 Passionate about C++, Unreal Engine, like low-level shit but not so good at it
+### 🌐 Have some expierence in Python, C#, Lua
 
 ### Wants to reverse engineer you.
 
@@ -10,6 +11,8 @@
 Deep preparation, keep elevation
 Breathe deadly statements with sleep deprivation
 ```
+
+### Have no really good projects, but soon get some
 
 ![](kitty-minecraft.gif)
 
