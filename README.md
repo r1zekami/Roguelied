@@ -5,7 +5,7 @@
 ### 💻 Passionate about C++, Unreal Engine, like low-level shit but not so good at it
 ### 🌐 Have some expierence in Python, C#, Lua
 
-### Wants to reverse engineer you.
+### 🔍 Wants to reverse engineer you.
 
 ```
 Deep preparation, keep elevation
