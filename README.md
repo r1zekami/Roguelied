@@ -6,11 +6,16 @@
 
 ### Wants to reverse engineer you.
 
+```
+Deep preparation, keep elevation
+Breathe deadly statements with sleep deprivation
+```
+
 ![](kitty-minecraft.gif)
 
 
 ---
-дайте деняк пж:
+_дайте деняк пж:_
 
 **BTC:** bc1qlnana03g8ddahtudwx4hqjmwxn0qnhnwn6z6x8
 
