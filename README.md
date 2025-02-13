@@ -18,7 +18,7 @@ Breathe deadly statements with sleep deprivation
 
 
 ---
-_дайте деняк пж:_
+_beg for money:_
 
 **BTC:** bc1qlnana03g8ddahtudwx4hqjmwxn0qnhnwn6z6x8
 
