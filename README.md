@@ -6,9 +6,9 @@ Love **C++**, **Unreal Engine**, have some sort of expierence in **Python**, **C
 
 Wants to reverse engineer you.
 
-```
+
 ![](kitty-minecraft.gif)
-```
+
 
 ---
 дайте деняк пж:
