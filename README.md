@@ -1,4 +1,4 @@
-# There's something going on here... Something evil...
+# funny ass readme profile
 ---
 
 ### 🎓 Third-year Cybersecurity Student  
